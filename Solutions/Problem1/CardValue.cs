@@ -1,0 +1,65 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Solutions.Problem1
+{
+    public enum CardValue
+    {
+        AceOfClubs = 1,
+        TwoOfClubs = 2,
+        ThreeOfClubs = 3,
+        FourOfClubs = 4,
+        FiveOfClubs = 5,
+        SixOfClubs = 6,
+        SevenOfClubs = 7,
+        EightOfClubs = 8,
+        NineOfClubs = 9,
+        TenOfClubs = 10,
+        JackOfClubs = 11,
+        QueenOfClubs = 12,
+        KingOfClubs = 13,
+        AceOfDiamonds = 14,
+        TwoOfDiamonds = 15,
+        ThreeOfDiamonds = 16,
+        FourOfDiamonds = 17,
+        FiveOfDiamonds = 18,
+        SixOfDiamonds = 19,
+        SevenOfDiamonds = 20,
+        EightOfDiamonds = 21,
+        NineOfDiamonds = 22,
+        TenOfDiamonds = 23,
+        JackOfDiamonds = 24,
+        QueenOfDiamonds = 25,
+        KingOfDiamonds = 26,
+        AceOfHearts = 27,
+        TwoOfHearts = 28,
+        ThreeOfHearts = 29,
+        FourOfHearts = 30,
+        FiveOfHearts = 31,
+        SixOfHearts = 32,
+        SevenOfHearts = 33,
+        EightOfHearts = 34,
+        NineOfHearts = 35,
+        TenOfHearts = 36,
+        JackOfHearts = 37,
+        QueenOfHearts = 38,
+        KingOfHearts = 39,
+        AceOfSpades = 40,
+        TwoOfSpades = 41,
+        ThreeOfSpades = 42,
+        FourOfSpades = 43,
+        FiveOfSpades = 44,
+        SixOfSpades = 45,
+        SevenOfSpades = 46,
+        EightOfSpades = 47,
+        NineOfSpades = 48,
+        TenOfSpades = 49,
+        JackOfSpades = 50,
+        QueenOfSpades = 51,
+        KingOfSpades = 52,
+        JokerA = 53,
+        JokerB = 54
+    }
+}
