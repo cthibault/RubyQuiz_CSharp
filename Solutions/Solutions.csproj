@@ -51,6 +51,10 @@
     <Compile Include="Problem1\ExtensionMethods.cs" />
     <Compile Include="Problem1\Problem1.cs" />
     <Compile Include="Problem1\SolitaireCipher.cs" />
+    <Compile Include="Problem2\ExtensionMethods.cs" />
+    <Compile Include="Problem2\Person.cs" />
+    <Compile Include="Problem2\SecretSantaPair.cs" />
+    <Compile Include="Problem2\SecretSantaPairer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
